@@ -11,10 +11,10 @@
 **MENTOR NAME**: Neela Santhosh Kumar 
 
 #DESCRIPTION
-A weather-app created using React.js . OMDB api id used for fetching data of movies.
+A weather-app created using React.js .Open weather api id used for fetching data of forecast.
 Library used-React.js
 Tools used -VS code,Brave.
-Resources-OMDB,Chatgpt,Youtube,Github.
+Resources-Open weather,Chatgpt,Youtube,Github.
 
 OUTPUT
 
