@@ -15,3 +15,8 @@ A weather-app created using React.js . OMDB api id used for fetching data of mov
 Library used-React.js
 Tools used -VS code,Brave.
 Resources-OMDB,Chatgpt,Youtube,Github.
+
+OUTPUT
+
+![image](https://github.com/user-attachments/assets/47619433-2760-4d9f-bff3-f5191a5055ee)
+
